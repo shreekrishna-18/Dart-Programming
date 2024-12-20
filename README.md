@@ -136,4 +136,17 @@ This is the Dart Programming Worksheet (Internship)
     Output:-
     ![Class and Object](https://github.com/user-attachments/assets/a635581f-b295-456c-9cb6-edbf716c8d9e)
 
+12. Inheritance
+    
+   Write a Dart program to demonstrate inheritance.
+   
+   Create a base class Animal with a method makeSound() that prints "Animal makes a sound".
+
+   Create a derived class Dog that overrides the makeSound() method to print "Dog barks".
+
+   Output:-
+   ![Inheritance](https://github.com/user-attachments/assets/d36b30d0-a15f-43b6-a6f1-0eeffb4b6274)
+
+
+
 

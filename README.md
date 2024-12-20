@@ -22,7 +22,7 @@ Output:-
 
    Assign a = 10 and b = 5.
 
-output:-
+Output:-
 ![Simple Arithmetic Operations](https://github.com/user-attachments/assets/cb04e2e8-e83a-45f5-b1fd-5804f92b3cd7)
 
 3. Check Odd or Even
@@ -35,5 +35,5 @@ output:-
 
    Print "Odd" if the number is odd.
 
-output:-
-![Check Odd or Even](https://github.com/user-attachments/assets/a8968dd4-07db-4dc7-9027-af6f8490941f)
+   Output:-
+   ![Check Odd or Even](https://github.com/user-attachments/assets/2a9a3215-d4f4-44b9-adb1-28c863d617b8)

@@ -35,5 +35,5 @@ Output:-
 
    Print "Odd" if the number is odd.
 
-   Output:-
+Output:-
    ![Check Odd or Even](https://github.com/user-attachments/assets/2a9a3215-d4f4-44b9-adb1-28c863d617b8)

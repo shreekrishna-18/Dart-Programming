@@ -138,15 +138,21 @@ This is the Dart Programming Worksheet (Internship)
 
 12. Inheritance
     
-   Write a Dart program to demonstrate inheritance.
+    Write a Dart program to demonstrate inheritance.
    
-   Create a base class Animal with a method makeSound() that prints "Animal makes a sound".
+    Create a base class Animal with a method makeSound() that prints "Animal makes a sound".
 
-   Create a derived class Dog that overrides the makeSound() method to print "Dog barks".
+    Create a derived class Dog that overrides the makeSound() method to print "Dog barks".
 
-   Output:-
-   ![Inheritance](https://github.com/user-attachments/assets/d36b30d0-a15f-43b6-a6f1-0eeffb4b6274)
+    Output:-
+    ![Inheritance](https://github.com/user-attachments/assets/d36b30d0-a15f-43b6-a6f1-0eeffb4b6274)
 
+13. Optional Parameters
+    
+    Write a Dart program with a function greet that takes two parameters: name (required) and message (optional).
 
+    If message is not provided, default it to "Welcome".
 
+    Output:-
+    ![Optional Parameters](https://github.com/user-attachments/assets/d41d1c19-9adb-4ff9-925c-a1918c2090b3)
 

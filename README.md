@@ -60,4 +60,19 @@ This is the Dart Programming Worksheet (Internship)
    Output:-
    ![Fibonacci Series](https://github.com/user-attachments/assets/86b914e8-3317-466b-9b39-9cd6d59bf28a)
 
-  
+  6. Working with Lists
+     
+     Write a Dart program to:
+
+     Create a list of integers: [5, 3, 8, 1, 2].
+
+     Add the number 7 to the list.
+
+     Sort the list in ascending order.
+
+     Print the sorted list.
+
+     Output:-
+     ![Working with Lists](https://github.com/user-attachments/assets/63936d21-b522-4cd8-b02a-ea55b246826b)
+
+

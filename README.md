@@ -111,3 +111,10 @@ This is the Dart Programming Worksheet (Internship)
 
    Output:-
    ![Bubble Sort](https://github.com/user-attachments/assets/5927bcba-1d84-4b9b-a15f-75b962c97cde)
+
+10. Binary Search
+    
+    Write a Dart program to implement the Binary Search algorithm. Search for the number 7 in the sorted list [1, 3, 5, 7, 9, 11]. If found, print its index.
+
+    Output:-
+    ![Binary Search](https://github.com/user-attachments/assets/5459bcf8-6990-4c25-aab4-9157f42b44b8)

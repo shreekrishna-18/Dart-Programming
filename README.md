@@ -156,3 +156,9 @@ This is the Dart Programming Worksheet (Internship)
     Output:-
     ![Optional Parameters](https://github.com/user-attachments/assets/d41d1c19-9adb-4ff9-925c-a1918c2090b3)
 
+14. Anonymous Function
+    
+    Write a Dart program that uses an anonymous function to print the square of each number in a list: [1, 2, 3, 4, 5].
+
+    Output:-
+    ![Anonymous Function](https://github.com/user-attachments/assets/13ce6c03-9295-4c0d-9718-384154349bd5)

@@ -118,3 +118,22 @@ This is the Dart Programming Worksheet (Internship)
 
     Output:-
     ![Binary Search](https://github.com/user-attachments/assets/5459bcf8-6990-4c25-aab4-9157f42b44b8)
+
+11. Class and Object
+    
+    Write a Dart program to create a class Car with the following properties:
+
+    brand (String)
+
+    model (String)
+
+    year (int)
+
+    Add a method displayInfo() that prints the car's details.
+
+    Create an object of the Car class and call the displayInfo() method.
+
+    Output:-
+    ![Class and Object](https://github.com/user-attachments/assets/a635581f-b295-456c-9cb6-edbf716c8d9e)
+
+

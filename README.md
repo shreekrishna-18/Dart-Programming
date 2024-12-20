@@ -77,16 +77,30 @@ This is the Dart Programming Worksheet (Internship)
    
 7. Working with Sets
    
-Write a Dart program to:
+   Write a Dart program to:
 
-Create a set of unique integers: {1, 2, 3, 4}.
+   Create a set of unique integers: {1, 2, 3, 4}.
 
-Add a new number 5 to the set.
+   Add a new number 5 to the set.
 
-Remove the number 2 from the set.
+   Remove the number 2 from the set.
 
-Print the final set.
+   Print the final set.
 
-Output:-
-![Working with Sets](https://github.com/user-attachments/assets/b226108b-53fa-4c8e-b145-74ec729cb9e2)
+   Output:-
+   ![Working with Sets](https://github.com/user-attachments/assets/b226108b-53fa-4c8e-b145-74ec729cb9e2)
 
+8. Working with Maps
+   
+   Write a Dart program to:
+
+   Create a map with the following key-value pairs: {'name': 'Alice', 'age': 25, 'city': 'New York'}.
+
+   Add a new key-value pair: 'country': 'USA'.
+
+   Update the value of 'age' to 26.
+
+   Print the updated map.
+
+   Output:-
+   ![Working with Maps](https://github.com/user-attachments/assets/986a2ad9-4ab5-4b41-ab69-d40588ddeb0f)

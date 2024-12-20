@@ -26,6 +26,7 @@ output:-
 ![Simple Arithmetic Operations](https://github.com/user-attachments/assets/cb04e2e8-e83a-45f5-b1fd-5804f92b3cd7)
 
 3. Check Odd or Even
+   
    Write a Dart program to check if a given number is odd or even.
 
    Define a variable num = 11.

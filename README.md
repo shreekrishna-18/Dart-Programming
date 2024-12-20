@@ -162,3 +162,14 @@ This is the Dart Programming Worksheet (Internship)
 
     Output:-
     ![Anonymous Function](https://github.com/user-attachments/assets/13ce6c03-9295-4c0d-9718-384154349bd5)
+
+15. Palindrome Checker
+    
+    Write a Dart program to check if a given string is a palindrome.
+
+    A string is a palindrome if it reads the same backward as forward.
+
+    Test with the string "madam".
+
+    Output:-
+    ![Palindrome Checker](https://github.com/user-attachments/assets/9c8f1342-9dd4-4979-bf28-880dad0f4411)

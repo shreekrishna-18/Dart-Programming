@@ -50,3 +50,14 @@ This is the Dart Programming Worksheet (Internship)
 
    Output:-
    ![Simple Calculator Using Functions](https://github.com/user-attachments/assets/e9f23902-8c8f-43e2-873a-0c279923ee21)
+
+5. Fibonacci Series
+   
+   Write a Dart program to print the first 10 terms of the Fibonacci series.
+
+   The Fibonacci series starts with 0 and 1.
+
+   Output:-
+   ![Fibonacci Series](https://github.com/user-attachments/assets/86b914e8-3317-466b-9b39-9cd6d59bf28a)
+
+  

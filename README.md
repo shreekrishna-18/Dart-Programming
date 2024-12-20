@@ -60,7 +60,7 @@ This is the Dart Programming Worksheet (Internship)
    Output:-
    ![Fibonacci Series](https://github.com/user-attachments/assets/86b914e8-3317-466b-9b39-9cd6d59bf28a)
 
-  6. Working with Lists
+6. Working with Lists
      
      Write a Dart program to:
 
@@ -74,5 +74,19 @@ This is the Dart Programming Worksheet (Internship)
 
      Output:-
      ![Working with Lists](https://github.com/user-attachments/assets/63936d21-b522-4cd8-b02a-ea55b246826b)
+   
+7. Working with Sets
+   
+Write a Dart program to:
 
+Create a set of unique integers: {1, 2, 3, 4}.
+
+Add a new number 5 to the set.
+
+Remove the number 2 from the set.
+
+Print the final set.
+
+Output:-
+![Working with Sets](https://github.com/user-attachments/assets/b226108b-53fa-4c8e-b145-74ec729cb9e2)
 
